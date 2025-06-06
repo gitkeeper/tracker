@@ -1,0 +1,14 @@
+[package]
+name = "tracker"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+authors = ["Alexander Baumann <alexander.baumann@bluewin.ch"]
+description = "Track the fulfillment of time-critical responsibilities and promises in your terminal."
+homepage = "https://github.com/gitkeeper/tracker"
+repository = "https://github.com/gitkeeper/tracker"
+keywords = ["tracker", "tasks", "productivity", "cli", "gui"]
+categories = ["command-line-utilities", "command-line-interface", "gui"]
+readme = "README.md"
+
+[dependencies]
