@@ -1,7 +1,7 @@
 # Tracker
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE-APACHE)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE-MIT)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE-APACHE.md)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE-MIT.md)
 
 ## About
 
@@ -49,6 +49,6 @@ to adhere to the [code of conduct](CODE_OF_CONDUCT.md).
 ## License
 
 This package is available as open source and dual-licensed under the terms of
-[Apache 2.0](LICENSE-APACHE) and [MIT](LICENSE-MIT). The user or developer choosing to use,
+[Apache 2.0](LICENSE-APACHE.md) and [MIT](LICENSE-MIT.md). The user or developer choosing to use,
 distribute, or modify this software can opt to do so under either of these licenses, adhering to
 the terms and conditions defined by the license they choose.
